@@ -14,6 +14,9 @@
     - Registro de los datos en memoria microSD para analisis posterior (funcion Datalogger).
 
     Fuentes de informacion original (articulos, tutoriales y blogs en los que se basa este codigo):
+        Pendiente - se consultaron varias fuentes de las que se obtuvo el codigo base, pero no pude 
+                    encontrar las direcciones web en el historial de navegacion. En cuanto los encuentre los
+                    voy a agregar en esta seccion a fin de proporcionar el debido credito a quien corresponda.
 
 */
 
